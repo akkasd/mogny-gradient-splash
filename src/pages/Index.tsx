@@ -14,6 +14,7 @@ const Index = () => {
           variant="hero" 
           size="lg"
           className="text-xl px-12 py-6 font-semibold"
+          onClick={() => window.open('https://t.me/Mogny00', '_blank')}
         >
           BUY
         </Button>
@@ -22,6 +23,7 @@ const Index = () => {
           variant="heroSecondary" 
           size="lg"
           className="text-xl px-12 py-6 font-semibold"
+          onClick={() => window.open('https://t.me/Mogny00', '_blank')}
         >
           FREE PREVIEWS
         </Button>
